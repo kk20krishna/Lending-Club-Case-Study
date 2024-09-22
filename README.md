@@ -91,11 +91,10 @@ The variables are listed in decreasing weightage of impact they have have. i.e. 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- Live session on EDA conducted by upGrad session.
-- Live session on Case Study conducted by upGrad
-- Resposnes provided by Daily Doubt Resolution sessions conducted by upGrad.
-- Cource content in upGrad Cource 1 Module 4 - Exploratory Data Analysis
+- Live session on EDA conducted by upGrad.
+- Live session on Case Study conducted by upGrad.
+- Resposnes provided in Daily Doubt Resolution sessions conducted by upGrad.
+- Cource content in upGrad Cource 1 Module 4 - Exploratory Data Analysis.
 
 
 ## Contact
