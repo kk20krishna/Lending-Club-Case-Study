@@ -18,29 +18,88 @@ The goal of this analysis is to use EDA to uncover the factors that can predict 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## Analysis Steps
+* Reading Data
+* Data wrangling
+  * Handle missing rows
+  * Handle missing data from column prespective
+  * Check for Duplicates
+  * Remove single-valued columns
+  * Filter data
+  * Select columns based of business knowledge
+  * Cleaning columns and correcting data types
+  * Handle Outliers
+* Univariate Analysis
+  * Define functions
+    * Define Univariate Analysis FUnction
+    * Define Function for Segmentation
+    * Define Function for Segmented Univariate Analysis
+  * Analyse Categorical Variables
+    * Univariate Analysis
+  * Analyse Numeric Variables
+    * Univariate Analysis
+    * Segmented Univariate Analysis
+* Bivariate Analysis
+  * Define functions
+    * Define function for Bivariate Categorical Variable analysis
+    * Define function for segmentation
+    * Define function for Bivariate analysis of Numeric Variables
+  * Analyse Categorical attributes
+    * Bivariate analysis
+  * Analyse Numeric Attributes
+    * Bivariate analysis
+    * Bivariate abalysis after binning
+* Correlation and heat map
+* Multivariate Analysis
+  * Investigate defaults for loans issued around holidays
+
 ## Conclusions
-- Driving Factors for Loan Default:
--   asdadawdads
+**Driving Factors for Loan Default.**
+
+Basis analysis done, below are the variables that are driving factors for Loan default.
+The variables are listed in decreasing weightage of impact they have have. i.e. highest impact driving factor is listed first.
+1. Grade
+2. Sub Grade
+3. Interest Rate
+4. Revolving Credit Utilization
+5. Installment to Monthly Income Ratio
+6. Term
+7. Delinquency Count
+8. Issue Month
+9. Installment
+10. Annual Income
+11. Combination of Interest Ratea nd Revolving Credit Utilization can be a farily good predictor of Loan Default.
+
+**Recomendations**
+-  Even when source verification or full verification is conducted, default rates are not reduced to the same level as for customers who do not require verification. Review the verification process and enhance its accuracy by incorporating additional verification attributes.
+-  Loans issued during the holiday season (November-December) and long weekends is a strong driving factor for defaults. Setup additional processing rules around these.
+-  The internal proceses within the company is not able to keep pace with the rapid expansion and scaling. Reivew, optimize and enhance loan risk assessment processes within the comapny to be in sync with the expansion and scaling goals.
+-  Loan defaults are influenced by both seasonal factors and loan purpose. The vacation season (May-June) appears to be a particularly risky period for Vacation loans. Add additional verification steps for Vacation loans during this period.
+-  Create stricter approval processes for high-risk loan purposes such as debt consolidation.
+-  Implement predictive models that weigh interest rate, loan term, and borrower income heavily to improve default prediction.
+-  Introduce more flexible loan repayment plans, especially around the holiday season to reduce defaults.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- Live session on EDA conducted by upGrad session.
+- Live session on Case Study conducted by upGrad
+- Resposnes provided by Daily Doubt Resolution sessions conducted by upGrad.
+- Cource content in upGrad Cource 1 Module 4 - Exploratory Data Analysis
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@kk20krishna] and [@githubusername] - feel free to contact us!
 
 
 <!-- Optional -->
