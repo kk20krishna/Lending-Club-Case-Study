@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> This case study focuses on applying Exploratory Data Analysis (EDA) techniques to understand the risk associated with lending for the lending company.
+> This case study focuses on applying Exploratory Data Analysis (EDA) techniques to understand the risk associated with lending for the consumer finance company.
 
 
 ## Table of Contents
@@ -48,7 +48,7 @@ The goal of this analysis is to use EDA to uncover the factors that can predict 
     * Bivariate analysis
   * Analyse Numeric Attributes
     * Bivariate analysis
-    * Bivariate abalysis after binning
+    * Bivariate analysis after binning
 * Correlation and heat map
 * Multivariate Analysis
   * Investigate defaults for loans issued around holidays
