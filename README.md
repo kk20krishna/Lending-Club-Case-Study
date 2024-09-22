@@ -19,10 +19,8 @@ The goal of this analysis is to use EDA to uncover the factors that can predict 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Driving Factors for Loan Default:
+-   asdadawdads
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
