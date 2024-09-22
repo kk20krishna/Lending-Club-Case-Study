@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> This case study focuses on applying Exploratory Data Analysis (EDA) techniques to understand the risk associated with lending in the banking and financial services sector.
+> This case study focuses on applying Exploratory Data Analysis (EDA) techniques to understand the risk associated with lending for the lending company.
 
 
 ## Table of Contents
