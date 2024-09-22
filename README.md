@@ -94,7 +94,7 @@ The variables are listed in decreasing weightage of impact they have have. i.e. 
 - Live session on EDA conducted by upGrad.
 - Live session on Case Study conducted by upGrad.
 - Resposnes provided in Daily Doubt Resolution sessions conducted by upGrad.
-- Cource content in upGrad Cource 1 Module 4 - Exploratory Data Analysis.
+- Cource content in upGrad Course 1 - Module 4 - Exploratory Data Analysis.
 
 
 ## Contact
