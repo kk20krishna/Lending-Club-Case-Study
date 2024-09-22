@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> This case study focuses on applying Exploratory Data Analysis (EDA) techniques to understand the risk associated with lending in the banking and financial services sector.
 
 
 ## Table of Contents
@@ -11,10 +11,9 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+The consumer finance company must balance two key risks when making loan approval decisions: rejecting applicants who would repay the loan, thus losing potential business, and approving applicants who are likely to default, which could lead to significant financial losses. The objective is to analyze a dataset of past loan applicants to identify patterns and factors that influence the likelihood of loan defaults. The consumer finance company at the center of this analysis is interested in minimizing financial losses by improving its decision-making process in loan approvals. By identifying key indicators of default, the company aims to manage its risk exposure and reduce credit loss.
+
+The goal of this analysis is to use EDA to uncover the factors that can predict loan default, allowing the company to better assess the risk profile of applicants. This knowledge will enable the company to make data-driven decisions to either reject, modify, or accept loan applications, ultimately reducing credit loss and improving financial performance.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
